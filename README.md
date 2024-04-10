@@ -1,0 +1,2 @@
+# vs-code
+ VSCode Minimalista
