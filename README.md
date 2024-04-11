@@ -26,4 +26,4 @@ Open vs-code, press ctrl+shift+p and type settings, open settings and configure 
 * **João Victor Thomaz Cardoso** - [Github](https://github.com/thomazgg)
 
 ## Acknowledgments
-* **Initial code by diego3g** - [Github]https://gist.github.com/diego3g/b1b189063d21b96d6144ca896755be64)
+* **Initial code by**  - [diego3g](https://gist.github.com/diego3g/b1b189063d21b96d6144ca896755be64)
