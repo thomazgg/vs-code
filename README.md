@@ -12,7 +12,7 @@ Do you want to have a code-focused VSCode, without distractions and unnecessary 
 
 ### To use the settings some plugins are required
 
-Abra o vs-code, pressione ctrl+shift+p e digite settings, abra as configurações e configure como quiser
+Open vs-code, press ctrl+shift+p and type settings, open settings and configure as you want
 
 ## Plugins necessarios para funcionar corretamente
 
