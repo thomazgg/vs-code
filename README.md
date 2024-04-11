@@ -10,16 +10,16 @@ Do you want to have a code-focused VSCode, without distractions and unnecessary 
 - [VSCode](https://code.visualstudio.com/download)
 - [Poppins](https://fonts.google.com/specimen/Poppins)
 
-### To use the settings some plugins are required
-
-Open vs-code, press ctrl+shift+p and type settings, open settings and configure as you want
-
-## Plugins necessarios para funcionar corretamente
+## Plugins required to function correctly
 
 * [Apc Customize UI++](https://marketplace.visualstudio.com/items?itemName=drcika.apc-extension)
 * [Fluent Icons](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.fluent-icons)
 * [Min Theme](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.min-theme)
 * [Symbols](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols)
+
+## Thats all!
+
+Open vs-code, press ctrl+shift+p and type settings, open settings and configure as you want
 
 ## Authors
 
