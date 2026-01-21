@@ -59,8 +59,9 @@
     "**\/.hg": true,
     "**\/.svn": true,
     "**\/.git": true,
-    ".vscode": true
-    // "node_modules": true
+    "**/.next": true,
+    "**/node_modules": true,
+    "**/.vscode": true
   },
   "update.mode": "start",
   "terminal.integrated.gpuAcceleration": "off",
