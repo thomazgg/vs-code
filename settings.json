@@ -15,24 +15,12 @@
     ".prettierrc": "json",
     "*.css": "css"
   },
-  "symbols.files.associations": {
-    "*.module.ts": "nest",
-    "*.guard.ts": "typescript",
-    "*.spec.ts": "ts-test",
-    "*.e2e-spec.ts": "ts-test",
-    "vitest.config.e2e.ts": "vite",
-    ".env.example": "gear"
-  },
-  "tailwindCSS.experimental.classRegex": [
-    ["tv\\(([^)]*)\\)", "[\"'`]([^\"'`]*).*?[\"'`]"]
-  ],
   "editor.parameterHints.enabled": false,
   "editor.renderLineHighlight": "gutter",
   "cSpell.language": "en,pt",
   "typescript.updateImportsOnFileMove.enabled": "always",
   "editor.suggestSelection": "first",
   "explorer.confirmDelete": false,
-  "gitlens.codeLens.recentChange.enabled": false,
   "terminal.integrated.showExitAlert": false,
   "[prisma]": {
     "editor.formatOnSave": true
@@ -49,25 +37,6 @@
   "emmet.syntaxProfiles": {
     "javascript": "jsx"
   },
-  "cSpell.enableFiletypes": [
-    "!asciidoc",
-    "!c",
-    "!cpp",
-    "!csharp",
-    "!go",
-    "!handlebars",
-    "!haskell",
-    "!jade",
-    "!java",
-    "!latex",
-    "!php",
-    "!pug",
-    "!python",
-    "!restructuredtext",
-    "!rust",
-    "!scala",
-    "!scss"
-  ],
   "editor.acceptSuggestionOnCommitCharacter": false,
   "explorer.compactFolders": false,
   "git.enableSmartCommit": true,
@@ -78,11 +47,6 @@
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": "explicit"
   },
-  "eslint.validate": [
-    "javascript",
-    "javascriptreact",
-    "graphql"
-  ],
   "editor.semanticHighlighting.enabled": false,
   "breadcrumbs.enabled": false,
   "workbench.productIconTheme": "fluent-icons",
@@ -109,47 +73,13 @@
   },
   "window.commandCenter": true,
   "git.openRepositoryInParentFolders": "always",
-  "symbols.hidesExplorerArrows": false,
   "[javascript]": {
     "editor.defaultFormatter": "vscode.typescript-language-features"
   },
-  "console-ninja.featureSet": "Community",
   "workbench.editor.empty.hint": "hidden",
   "update.showReleaseNotes": false,
   "security.promptForLocalFileProtocolHandling": false,
-  "apc.activityBar": {
-    "position": "bottom",
-    "hideSettings": true,
-    "size": 48,
-    "itemMargin": 8,
-    "itemSize": 32
-  },
   "editor.hideCursorInOverviewRuler": true,
-  "apc.electron": {
-    "titleBarStyle": "hiddenInset",
-    "trafficLightPosition": {
-      "x": 11,
-      "y": 10
-    },
-    "frame": false
-  },
-  "apc.header": {
-    "height": 36
-  },
-  "apc.listRow": {
-    "height": 24
-  },
-  "apc.font.family": "Poppins",
-  "apc.stylesheet": {
-    ".title-label > h2": "display: none",
-    ".editor-actions": "display: none",
-    ".nosidebar .inline-tabs-placeholder": "width: 75px",
-    ".pane-header": "padding: 0 8px",
-    ".pane-body": "padding: 8px",
-    ".split-view-view:first-child .pane-header": "display: none !important;",
-    ".monaco-list-row": "border-radius: 4px;",
-    ".monaco-workbench .monaco-list:not(.element-focused):focus:before": "display: none;"
-  },
   "editor.scrollbar.vertical": "hidden",
   "explorer.sortOrder": "foldersNestsFiles",
   "explorer.fileNesting.patterns": {
@@ -232,7 +162,6 @@
     "**/*.less",
     "**/*.styl"
   ],
-  "editor.defaultColorDecorators": true,
   "liveServer.settings.donotShowInfoMsg": true,
   "workbench.statusBar.visible": false,
   "editor.wordWrap": "on",
